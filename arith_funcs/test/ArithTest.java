@@ -1,7 +1,11 @@
+package test;
 
-import fi.helsinki.cs.tmc.edutestutils.Points;
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
-import static org.junit.Assert.*;
+
+import src.Arith;
+import fi.helsinki.cs.tmc.edutestutils.Points;
 
 public class ArithTest {
     @Test

@@ -1,3 +1,4 @@
+package src;
 
 public class Arith {
     public static int add(int a, int b) {
